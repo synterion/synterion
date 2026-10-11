@@ -32,15 +32,9 @@
 
 <div align="center">
 
-  <a href="https://ko-fi.com/ton_pseudo">
+  <a href="https://ko-fi.com/synterion">
     <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="45">
   </a>
-
-
-  <a href="https://ko-fi.com/synterion">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Support me on Ko-fi">
-  </a>
-
 </div>
 
 

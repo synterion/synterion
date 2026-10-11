@@ -1,14 +1,10 @@
 ## Hi there 👋, I'm synterion
 
-### Cybersecurity Achitect, Analyst & Pentester
+### 🛡️ Cybersecurity Achitect, Analyst & Pentester
 
 - 📝 I regularly write articles on **[https://synterion.dev/](https://synterion.dev/)**
-
-
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/synterion/count.svg" alt="Visitor's Count" />
-</div>
+- 🔭 I'm currently working on AI agents to understand how they work and how to use them safely.
+- 😄 I'm very curious and interested in a wide variety of topics; you're sure to find something interesting here. 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">

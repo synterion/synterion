@@ -4,10 +4,10 @@
 
 - 📝 I regularly write articles on **[https://synterion.dev/](https://synterion.dev/)**
 
-### Visitor count
+
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/synterion/count.svg" alt="Visitor's Count" />
 </div>
 
 ## 📊 GitHub Stats & Trophies

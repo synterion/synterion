@@ -30,9 +30,23 @@
   </a>
 </p>
 
+<div align="center">
+
+  <a href="https://ko-fi.com/ton_pseudo">
+    <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" alt="Ko-fi" height="45">
+  </a>
+
+
+  <a href="https://ko-fi.com/synterion">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Support me on Ko-fi">
+  </a>
+
+</div>
+
 
 <!--
-<p align="center"><a href="https://buymeacoffee.com/synterion" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<p align="center"> alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <!--
 **synterion/synterion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
